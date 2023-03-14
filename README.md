@@ -35,7 +35,7 @@ Maticula: 12211BCC044</h3>
 <img src= https://img.shields.io/badge/Lab-02-lightgrey />
 <img src= "https://img.shields.io/badge/Dado-14.10.22-informational"/>
   <p> Trabalho com 53 questoes diversas para nos familiarizarmos com a programacao em C. </p>
-  <p> Link: https://github.com/sthecss/Sthephanny-PP/blob/main/LAB%2002/53%20exercicios.c </p>
+  <p> Link:  </p>
 </div>
 
 》═══════════════════════~◈~═══════════════════════《
@@ -44,7 +44,7 @@ Maticula: 12211BCC044</h3>
 <img src= https://img.shields.io/badge/Lab-03-lightgrey />
 <img src= "https://img.shields.io/badge/Dado-21.10.22-informational"/>
   <p> Trabalho com 40 questoes diversas para nos familiarizarmos com o uso de condicionais em C. </p>
-  <p> Link: https://github.com/sthecss/Sthephanny-PP/blob/main/LAB%2003/condicionais.C </p>
+  <p> Link:  </p>
 </div>
 
 》═══════════════════════~◈~═══════════════════════《
@@ -53,7 +53,7 @@ Maticula: 12211BCC044</h3>
 <img src= https://img.shields.io/badge/Lab-04-lightgrey />
 <img src= "https://img.shields.io/badge/Dado-26.10.22-informational"/>
   <p> Trabalho com 23 questoes diversas para nos familiarizarmos com o uso de laços em C. </p>
-  <p> Link: https://github.com/sthecss/Sthephanny-PP/blob/main/LAB%2004/lacos.c </p>
+  <p> Link:  </p>
 </div>
 
 》═══════════════════════~◈~═══════════════════════《
@@ -62,7 +62,7 @@ Maticula: 12211BCC044</h3>
 <img src= https://img.shields.io/badge/Lab-05-lightgrey />
 <img src= "https://img.shields.io/badge/Dado-18.11.22-informational"/>
   <p> Trabalho com 24 questoes para aprendermos a lidar com funções. </p>
-  <p> Link: https://github.com/sthecss/Sthephanny-PP/blob/main/LAB%2005/funcoes.c </p>
+  <p> Link:  </p>
 </div>
 
 》═══════════════════════~◈~═══════════════════════《
@@ -71,7 +71,7 @@ Maticula: 12211BCC044</h3>
 <img src= https://img.shields.io/badge/Lab-06-lightgrey />
 <img src= "https://img.shields.io/badge/Dado-25.11.22-informational"/>
   <p> Lista dupla para aprendermos sobre vetores e matrizes. </p>
-  <p> Link: https://github.com/sthecss/Sthephanny-PP/blob/main/LAB%2006/vetores_e_matrizes.c </p>
+  <p> Link:  </p>
 </div>
 
 》═══════════════════════~◈~═══════════════════════《
@@ -80,7 +80,7 @@ Maticula: 12211BCC044</h3>
 <img src= https://img.shields.io/badge/Lab-Extra!-lightgrey />
 <img src= "https://img.shields.io/badge/Dado-02.12.22-informational"/>
   <p> Desafio extra único. Transformar frases normais em frases do cebolinha. </p>
-  <p> Link: https://github.com/sthecss/Sthephanny-PP/blob/main/LAB%2006%20EXTRA </p>
+  <p> Link: </p>
 </div>
 
 》═══════════════════════~◈~═══════════════════════《
@@ -89,7 +89,7 @@ Maticula: 12211BCC044</h3>
 <img src= https://img.shields.io/badge/Lab-07-lightgrey />
 <img src= "https://img.shields.io/badge/Dado-01.12.22-informational"/>
   <p> 16 exercicios para usar strings. </p>
-  <p> Link: https://github.com/sthecss/Sthephanny-PP/blob/main/LAB%2007/strings.c </p>
+  <p> Link:  </p>
 </div>
 
 》═══════════════════════~◈~═══════════════════════《

@@ -26,7 +26,7 @@ Maticula: 12211BCC044</h3>
 <img src= https://img.shields.io/badge/Lab-01-lightgrey />
 <img src= "https://img.shields.io/badge/Dado-07.10.22-informational"/>
   <p> Trabalho que envolveu conhecer a IDE. Quebramos a maldição do Hello World, e fizemos um programa básico envolvendo números reais e fatorial. </p>
-  <p> Link: https://github.com/sthecss/Sthephanny-PP/blob/main/LAB%2001/calculadora.C </p>
+  <p> Link: https://gist.github.com/sthecss/3b94f59d8705b6e37a2d4659cb0437c6 </p>
 </div>
 
 》═══════════════════════~◈~═══════════════════════《
@@ -35,7 +35,7 @@ Maticula: 12211BCC044</h3>
 <img src= https://img.shields.io/badge/Lab-02-lightgrey />
 <img src= "https://img.shields.io/badge/Dado-14.10.22-informational"/>
   <p> Trabalho com 53 questoes diversas para nos familiarizarmos com a programacao em C. </p>
-  <p> Link:  </p>
+  <p> Link:  https://gist.github.com/sthecss/13e207a8d5742175ea72b2e2b3d1a2fd </p>
 </div>
 
 》═══════════════════════~◈~═══════════════════════《

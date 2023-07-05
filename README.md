@@ -8,11 +8,6 @@
 <h1 align="center"> Programação Procedimental. </h1>
 <p align="center"> Repositório que contém todos os laboratórios da disciplina </h2>
 
-<p align="center"> Aluna: Sthephanny Caroline da Silva Santos. 
-Maticula: 12211BCC044</h3>
-
-
-
 <p align="center">
 <a> <img src="https://i.imgur.com/deTM35X.gif" title="source: imgur.com" /></a>
 
